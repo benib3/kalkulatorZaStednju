@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KalkulatorZaStednju</string>
+    <string name="naslov">Kalkulator ŠTEDNJE</string>
+    <string name="s1">Godišnja kamatna stopa</string>
+    <string name="s2">Period (broj godina)</string>
+    <string name="s3">Iznos stednje</string>
+    <string name="btn">Izracunaj</string>
+</resources>
